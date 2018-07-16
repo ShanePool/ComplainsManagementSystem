@@ -1,0 +1,5 @@
+G:\Projects\C#\CMS001\PropertyProj\bin\Debug\PropertyProj.dll
+G:\Projects\C#\CMS001\PropertyProj\bin\Debug\PropertyProj.pdb
+G:\Projects\C#\CMS001\PropertyProj\obj\Debug\PropertyProj.csprojResolveAssemblyReference.cache
+G:\Projects\C#\CMS001\PropertyProj\obj\Debug\PropertyProj.dll
+G:\Projects\C#\CMS001\PropertyProj\obj\Debug\PropertyProj.pdb

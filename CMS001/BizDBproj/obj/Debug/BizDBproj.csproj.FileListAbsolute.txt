@@ -1,0 +1,14 @@
+G:\Projects\C#\CMS001\BizDBproj\bin\Debug\BizDBproj.dll
+G:\Projects\C#\CMS001\BizDBproj\bin\Debug\BizDBproj.pdb
+G:\Projects\C#\CMS001\BizDBproj\obj\Debug\BizDBproj.csprojResolveAssemblyReference.cache
+G:\Projects\C#\CMS001\BizDBproj\obj\Debug\BizDBproj.dll
+G:\Projects\C#\CMS001\BizDBproj\obj\Debug\BizDBproj.pdb
+G:\Projects\C#\CMS001\BizDBproj\bin\Debug\PropertyProj.dll
+G:\Projects\C#\CMS001\BizDBproj\bin\Debug\PropertyProj.pdb
+G:\Projects\C#\zBackups\CMS001\BizDBproj\bin\Debug\BizDBproj.dll
+G:\Projects\C#\zBackups\CMS001\BizDBproj\bin\Debug\BizDBproj.pdb
+G:\Projects\C#\zBackups\CMS001\BizDBproj\bin\Debug\PropertyProj.dll
+G:\Projects\C#\zBackups\CMS001\BizDBproj\bin\Debug\PropertyProj.pdb
+G:\Projects\C#\zBackups\CMS001\BizDBproj\obj\Debug\BizDBproj.csprojResolveAssemblyReference.cache
+G:\Projects\C#\zBackups\CMS001\BizDBproj\obj\Debug\BizDBproj.dll
+G:\Projects\C#\zBackups\CMS001\BizDBproj\obj\Debug\BizDBproj.pdb
